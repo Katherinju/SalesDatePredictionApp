@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\services\\orders.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\services\\orders.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\services\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\services\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\services\\shipper.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\services\\shipper.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\services\\employee.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\services\\employee.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\services\\customer.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\services\\customer.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\models\\order.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\models\\order.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\app\\models\\customer-with-order-info-dto.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\app\\models\\customer-with-order-info-dto.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\src\\environments\\environment.prod.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\src\\environments\\environment.prod.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|c:\\users\\kathe\\source\\repos\\salesdatepredictionapp\\salesdatepredictionapp.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{093B7BE3-78B1-929A-2269-6C68BED9A293}|salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj|solutionrelative:salesdatepredictionapp.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-16T01:43:51.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "new-order-form.component.ts",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.ts",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-16T15:48:45.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "new-order-form.component.css",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.css",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.css",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.css",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.css",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-16T16:56:11.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "new-order-form.component.html",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.html",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.html",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.html",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\views\\new-order-form\\new-order-form.component.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-16T15:45:40.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sales-date-prediction-view.component.ts",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.ts",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.ts",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAUwF4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-16T01:13:02.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-16T03:25:18.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sales-date-prediction-view.component.html",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.html",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.html",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.html",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.html",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-16T01:13:40.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "orders.service.ts",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\services\\orders.service.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\services\\orders.service.ts",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\services\\orders.service.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\services\\orders.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-16T02:26:09.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "product.service.ts",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\services\\product.service.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\services\\product.service.ts",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\services\\product.service.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\services\\product.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-16T16:47:55.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "shipper.service.ts",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\services\\shipper.service.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\services\\shipper.service.ts",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\services\\shipper.service.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\services\\shipper.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-16T16:47:40.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "employee.service.ts",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\services\\employee.service.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\services\\employee.service.ts",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\services\\employee.service.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\services\\employee.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-16T16:47:19.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "order-dialog.component.css",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.css",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.css",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.css",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-16T15:33:30.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "order-dialog.component.ts",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.ts",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.ts",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-16T15:21:56.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sales-date-prediction-view.component.css",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.css",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.css",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.css",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\views\\sales-date-prediction-view\\sales-date-prediction-view.component.css",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-16T01:41:48.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "order-dialog.component.html",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.html",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.html",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.html",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\views\\order-dialog\\order-dialog.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-16T15:22:26.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "customer.service.ts",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\services\\customer.service.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\services\\customer.service.ts",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\services\\customer.service.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\services\\customer.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-16T01:03:10.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-16T04:44:15.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "order.ts",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\models\\order.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\models\\order.ts",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\models\\order.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\models\\order.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-16T02:27:52.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "customer-with-order-info-dto.ts",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\models\\customer-with-order-info-dto.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\app\\models\\customer-with-order-info-dto.ts",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\app\\models\\customer-with-order-info-dto.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\app\\models\\customer-with-order-info-dto.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-16T01:15:24.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "environment.ts",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\environments\\environment.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\environments\\environment.ts",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\environments\\environment.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\environments\\environment.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-16T00:57:02.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "environment.prod.ts",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\environments\\environment.prod.ts",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\src\\environments\\environment.prod.ts",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\src\\environments\\environment.prod.ts",
+              "RelativeToolTip": "salesdatepredictionapp.client\\src\\environments\\environment.prod.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-16T00:58:08.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\.gitignore",
+              "RelativeDocumentMoniker": "salesdatepredictionapp.client\\.gitignore",
+              "ToolTip": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\.gitignore",
+              "RelativeToolTip": "salesdatepredictionapp.client\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T00:41:22.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

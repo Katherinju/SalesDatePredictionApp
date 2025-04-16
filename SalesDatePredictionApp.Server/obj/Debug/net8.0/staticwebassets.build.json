@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "DA7zQgVW2iSeVSbDcm2gfWaX21Nvl4GvAMauzGk0LBI=",
+  "Source": "SalesDatePredictionApp.Server",
+  "BasePath": "_content/SalesDatePredictionApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\kathe\\source\\repos\\SalesDatePredictionApp\\salesdatepredictionapp.client\\salesdatepredictionapp.client.esproj",
+      "Version": 2,
+      "Source": "salesdatepredictionapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

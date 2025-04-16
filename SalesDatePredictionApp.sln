@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "salesdatepredictionapp.client", "salesdatepredictionapp.client\salesdatepredictionapp.client.esproj", "{093B7BE3-78B1-929A-2269-6C68BED9A293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesDatePredictionApp.Server", "SalesDatePredictionApp.Server\SalesDatePredictionApp.Server.csproj", "{CAC4E6DC-5F47-4D2C-B890-2F72A53D48C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{093B7BE3-78B1-929A-2269-6C68BED9A293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093B7BE3-78B1-929A-2269-6C68BED9A293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093B7BE3-78B1-929A-2269-6C68BED9A293}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{093B7BE3-78B1-929A-2269-6C68BED9A293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093B7BE3-78B1-929A-2269-6C68BED9A293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093B7BE3-78B1-929A-2269-6C68BED9A293}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CAC4E6DC-5F47-4D2C-B890-2F72A53D48C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC4E6DC-5F47-4D2C-B890-2F72A53D48C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC4E6DC-5F47-4D2C-B890-2F72A53D48C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC4E6DC-5F47-4D2C-B890-2F72A53D48C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5FF20CC-EF23-4E9C-8ED0-E43584679C18}
+	EndGlobalSection
+EndGlobal
